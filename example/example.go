@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	"github.com/tbalthazar/onesignal-go"
+	"github.com/exluap/onesignal-sdk-go"
 )
 
 var (
